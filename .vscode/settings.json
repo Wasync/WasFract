@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mt_vec2.h": "c",
+        "mt_vec3.h": "c",
+        "mt.h": "c"
+    }
+}
